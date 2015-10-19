@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "01E3B1FF5562609DAA9A4A62E2990A1B917B7708",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "01E3B1FF5562609DAA9A4A62E2990A1B917B7708" : 0,
+    "C3F0B3970891B1276B9B2075F85289C105E963F8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "112AAB43-ABA0-4F31-B906-9456F94466CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "01E3B1FF5562609DAA9A4A62E2990A1B917B7708" : "AI\/",
+    "C3F0B3970891B1276B9B2075F85289C105E963F8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jacobjohannesen\/EscapeRoomApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01E3B1FF5562609DAA9A4A62E2990A1B917B7708"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jacobjohannesen\/EscapeRoom.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3F0B3970891B1276B9B2075F85289C105E963F8"
+    }
+  ]
+}
